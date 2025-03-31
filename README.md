@@ -269,4 +269,4 @@ Manual testing was performed on:
 
 The SpicyFood Restaurant Booking System provides a comprehensive solution for managing restaurant reservations. The dual-interface design caters to both customers and staff, streamlining the booking process and providing valuable insights for business operations.
 
----# Restaurant-table-booking-System
+-----------------------------------------------------------------------
